@@ -1,4 +1,4 @@
-**Data**
+# **Data**
 
 * *children*: the number of children in the family
 * *days_employed*: how long the customer has been working
@@ -13,8 +13,8 @@
 * *total_income*: monthly income
 * *purpose*: reason for taking out a loan
 
-**Goal:**
+# **Goal:**
  To find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. 
 
- **Libraries used:**
+# **Libraries used:**
  *Pandas*
