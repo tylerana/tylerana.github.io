@@ -1,7 +1,6 @@
 # Practicum by Yandex Projects
 
-<br>
-# About this Repository
+
 This repository contains data science projects I have completed through my data science bootcamp [Practicum by Yandex](https://practicum.yandex.com/).
 
 | Project Name  | Description | Libraries used|
@@ -11,5 +10,5 @@ This repository contains data science projects I have completed through my data 
 | [Megaline Telecom Analyst](https://github.com/tylerana/tylerana.github.io/tree/main/Megaline%20Telecom%20Analyst)| With data on 500 Megaline Telecom clients, I carried out a preliminary analysis analyzing clients' behavior to determine which Megaline prepaid plan brings in more revenue. | pandas, numpy, matplotlib |
 | [Ice Videogame Analyst](https://github.com/tylerana/tylerana.github.io/tree/main/Ice%20Videogame%20Analyst)| Identify patterns that determine whether a game succeeds or not. This allows me to spot potential big winners and plan advertising campaigns.| pandas, matplotlib, numpy, scipy, seaborn, math|
 |[Telecom Plans ML Model](https://github.com/tylerana/tylerana.github.io/tree/main/Megaline%20Analyst%20Machine%20Learning%20Project) | Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra.| Pandas, Matplotlib, Numpy, Sklearn |
-[Beta Bank Customers]() | Beta Bank customers are leaving: little by little, chipping away every month. Given data on clients' past behavior and termination of contracts with Beta Bank, build a model with the maximum possible F1 score. | pandas, numpy, sklearn |
-[Oil Well Model]() | You have data on oil samples from three regions. Parameters of each oil well in the region are already known. Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique. | pandas, numpy, scipy, sklearn, matplotlib.pyplot|
+[Beta Bank Customers](https://github.com/tylerana/tylerana.github.io/tree/main/Beta%20Bank%20Customers) | Beta Bank customers are leaving: little by little, chipping away every month. Given data on clients' past behavior and termination of contracts with Beta Bank, build a model with the maximum possible F1 score. | pandas, numpy, sklearn |
+[Oil Well Model](https://github.com/tylerana/tylerana.github.io/tree/main/Oil%20Well%20Model) | You have data on oil samples from three regions. Parameters of each oil well in the region are already known. Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique. | pandas, numpy, scipy, sklearn, matplotlib.pyplot|
