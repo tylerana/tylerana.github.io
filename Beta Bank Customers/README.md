@@ -1,19 +1,33 @@
-# **Data**
-credit_scoring_eng.csv
+# Project Description
+![image](https://user-images.githubusercontent.com/19640466/141059133-da9adfa8-8763-4a7c-b7d6-864be8cefd39.png)<br>
+Beta Bank customers are leaving little by little, chipping away every month. Given data on client's past behavior and termination of contracts with the bank, we have to predict whether a customer will leave the bank soon.
+# Table of Contents
+1. General information about dataset
+2. Data Preprocessing
+3. Splitting data into test/train/validation set
+4. Improving model quality
 
+# Data:
+**Features**
+* *RowNumber* — data string index
+* *CustomerId* — unique customer identifier
+* *Surname* — surname
+* *CreditScore* — credit score
+* *Geography* — country of residence
+* *Gender* — gender
+* *Age* — age
+* *Tenure* — period of maturation for a customer’s fixed deposit (years)
+* *Balance* — account balance
+* *NumOfProducts* — number of banking products used by the customer
+* *HasCrCard* — customer has a credit card
+* *IsActiveMember* — customer’s activeness
+* *EstimatedSalary* — estimated salary
 
-* *children*: the number of children in the family
-* *days_employed*: how long the customer has been working
-* *dob_years*: the customer’s age
-* *education*: the customer’s education level
-* *education_id*: identifier for the customer’s education
-* *family_status*: the customer’s marital status
-* *family_status_id*: identifier for the customer’s marital status
-* *gender*: the customer’s gender
-* *income_type*: the customer’s income type
-* *debt*: whether the customer has ever defaulted on a loan
-* *total_income*: monthly income
-* *purpose*: reason for taking out a loan
+**Target**
+* *Exited* — Customer has left the bank
 
-# **Goal:**
-Beta Bank customers are leaving: little by little, chipping away every month. Given data on clients' past behavior and termination of contracts with Beta Bank, build a model with the maximum possible F1 score.
+**Goal:**
+To predict whether a customer will leave the bank, build a model with the maximum possible F1 score.
+
+**Libraries used:**<br>
+*pandas, sklearn.ensemble, sklearn.linear_model, sklearn.tree, sklearn.model_selection, sklearn.metrics, sklearn.preprocessing, numpy*
