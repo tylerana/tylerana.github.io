@@ -17,4 +17,4 @@
  To study data collected over the last few years and determine which factors influence the price of a vehicle.
 
 # **Libraries used:**
- *Pandas*, *Matplotlib*, *Numpy*
+ *pandas*, *matplotlib*, *numpy*
