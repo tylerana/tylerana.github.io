@@ -15,5 +15,5 @@ credit_scoring_eng.csv
 * *total_income*: monthly income
 * *purpose*: reason for taking out a loan
 
-**Goal:**
+# **Goal:**
 Beta Bank customers are leaving: little by little, chipping away every month. Given data on clients' past behavior and termination of contracts with Beta Bank, build a model with the maximum possible F1 score.
