@@ -1,7 +1,7 @@
 # Technical Projects
 
 
-This repository contains data science projects I have completed through my data science bootcamp [Practicum by Yandex](https://practicum.yandex.com/).
+This repository contains data science projects I have completed through my data science practicum.
 
 | Project Name  | Description | Libraries used|
 | ------------- | ------------- | ------------- |
