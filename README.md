@@ -5,6 +5,9 @@ This repository contains data science projects I have completed through my data 
 
 | Project Name  | Description | Libraries used|
 | ------------- | ------------- | ------------- |
+
+| **[Content‑Based Matchmaking](https://github.com/tylerana/data-science-dating-project)** | Used BERT embeddings to compare user‑written essays and rank profiles by semantic similarity with location filtering. | Python, NLP, BERT, Streamlit |
+| **[ETL Search Pipeline](https://github.com/tylerana/data-engineering-final)** | Collected multi‑engine search results, extracted text with OCR, stored in MySQL, and explored keyword patterns via a dashboard. | Python, SQL, MySQL, OCR, Dashboards |
 | [Analyzing Borrower Risk](https://github.com/tylerana/tylerana.github.io/tree/main/Analyzing%20Borrowers'%20Risk)  | Given data on customer's credit worthiness, I determined if a customer's marital status and number of children have an impact on whether they will default on a loan. | pandas |
 | [Crankshaft List Analyst](https://github.com/tylerana/tylerana.github.io/tree/main/Crankshaft%20List%20Analyst)  | As an analyst at Crankshaft List, hundreds of free advertisements for vehicles are published on the site every day. I studied data collected over the last few years and determined which factors influence the price of a vehicle.  | pandas, numpy, matplotlib  |
 | [Ice Videogame Analyst](https://github.com/tylerana/tylerana.github.io/tree/main/Ice%20Videogame%20Analyst)| Identify patterns that determine whether a game succeeds or not. This allows me to spot potential big winners and plan advertising campaigns.| pandas, matplotlib, numpy, scipy, seaborn, math|
