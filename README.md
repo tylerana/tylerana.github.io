@@ -5,6 +5,7 @@ Welcome to my technical project portfolio. I’m a Master’s student in Data Sc
 ---
 
 ## 🚀 Featured Projects
+- **[Anime Pipeline v2](https://github.com/tylerana/anime-pipeline)** - Dockerized ELT pipeline using dbt and Postgres for analytics-ready data. *(2026)*
 - **[Content-Based Matchmaking](https://github.com/tylerana/data-science-dating-project)** — NLP with BERT for semantic essay matching + location filters. *(2025)*
 - **[ETL Search Pipeline](https://github.com/tylerana/data-engineering-final)** — Multi-engine ingestion, OCR, MySQL, dashboard keyword insights. *(2025)*
 
