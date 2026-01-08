@@ -1,6 +1,6 @@
-# 📂 Tyler Anatole — Data Science & Machine Learning Portfolio
+# 📂 Tyler Anatole — Data Engineering, Analytics & Applied ML Portfolio
 
-Welcome to my technical project portfolio. I’m a Master’s student in Data Science & Engineering (Graduating Dec 2025), building advanced, real-world projects in **NLP, Machine Learning, and Data Engineering** to prepare for a career as a Data Scientist / Machine Learning Engineer.
+Welcome to my technical project portfolio. I’m a Master’s student in Data Science & Engineering (graduating December 2025) building end-to-end data projects, including ELT pipelines with SQL, Python, dbt, and Docker, dimensional data models, and applied NLP systems used for downstream analytics and machine learning. I’m preparing for roles in Data Engineering and Analytics Engineering.
 
 ---
 
